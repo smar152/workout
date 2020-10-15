@@ -1,0 +1,87 @@
+/*
+ * The Typekit service used to deliver this font or fonts for use on websites
+ * is provided by Adobe and is subject to these Terms of Use
+ * http://www.adobe.com/products/eulas/tou_typekit. For font license
+ * information, see the list below.
+ *
+ * aktiv-grotesk-extended:
+ *   - http://typekit.com/eulas/00000000000000003b9ad139
+ *   - http://typekit.com/eulas/00000000000000003b9ad13a
+ *   - http://typekit.com/eulas/00000000000000003b9ad13c
+ *   - http://typekit.com/eulas/00000000000000003b9ad13e
+ *   - http://typekit.com/eulas/00000000000000003b9ad140
+ *
+ * © 2009-2020 Adobe Systems Incorporated. All Rights Reserved.
+ */
+/*{"last_published":"2020-06-02 15:15:57 UTC"}*/
+
+@import url("https://p.typekit.net/p.css?s=1&k=zsc5kqi&ht=tk&f=26908.26909.26911.26913.26915&a=776988&app=typekit&e=css");
+
+@font-face {
+  font-family: "aktiv-grotesk-extended";
+  src: url("https://use.typekit.net/af/f6d3e0/00000000000000003b9ad139/27/l?primer=7fa3915bdafdf03041871920a205bef951d72bf64dd4c4460fb992e3ecc3a862&fvd=n3&v=3")
+      format("woff2"),
+    url("https://use.typekit.net/af/f6d3e0/00000000000000003b9ad139/27/d?primer=7fa3915bdafdf03041871920a205bef951d72bf64dd4c4460fb992e3ecc3a862&fvd=n3&v=3")
+      format("woff"),
+    url("https://use.typekit.net/af/f6d3e0/00000000000000003b9ad139/27/a?primer=7fa3915bdafdf03041871920a205bef951d72bf64dd4c4460fb992e3ecc3a862&fvd=n3&v=3")
+      format("opentype");
+  font-display: auto;
+  font-style: normal;
+  font-weight: 300;
+}
+
+@font-face {
+  font-family: "aktiv-grotesk-extended";
+  src: url("https://use.typekit.net/af/e10446/00000000000000003b9ad13a/27/l?primer=7fa3915bdafdf03041871920a205bef951d72bf64dd4c4460fb992e3ecc3a862&fvd=n4&v=3")
+      format("woff2"),
+    url("https://use.typekit.net/af/e10446/00000000000000003b9ad13a/27/d?primer=7fa3915bdafdf03041871920a205bef951d72bf64dd4c4460fb992e3ecc3a862&fvd=n4&v=3")
+      format("woff"),
+    url("https://use.typekit.net/af/e10446/00000000000000003b9ad13a/27/a?primer=7fa3915bdafdf03041871920a205bef951d72bf64dd4c4460fb992e3ecc3a862&fvd=n4&v=3")
+      format("opentype");
+  font-display: auto;
+  font-style: normal;
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: "aktiv-grotesk-extended";
+  src: url("https://use.typekit.net/af/5a2c6f/00000000000000003b9ad13c/27/l?primer=7fa3915bdafdf03041871920a205bef951d72bf64dd4c4460fb992e3ecc3a862&fvd=n5&v=3")
+      format("woff2"),
+    url("https://use.typekit.net/af/5a2c6f/00000000000000003b9ad13c/27/d?primer=7fa3915bdafdf03041871920a205bef951d72bf64dd4c4460fb992e3ecc3a862&fvd=n5&v=3")
+      format("woff"),
+    url("https://use.typekit.net/af/5a2c6f/00000000000000003b9ad13c/27/a?primer=7fa3915bdafdf03041871920a205bef951d72bf64dd4c4460fb992e3ecc3a862&fvd=n5&v=3")
+      format("opentype");
+  font-display: auto;
+  font-style: normal;
+  font-weight: 500;
+}
+
+@font-face {
+  font-family: "aktiv-grotesk-extended";
+  src: url("https://use.typekit.net/af/3f03c1/00000000000000003b9ad13e/27/l?primer=7fa3915bdafdf03041871920a205bef951d72bf64dd4c4460fb992e3ecc3a862&fvd=n7&v=3")
+      format("woff2"),
+    url("https://use.typekit.net/af/3f03c1/00000000000000003b9ad13e/27/d?primer=7fa3915bdafdf03041871920a205bef951d72bf64dd4c4460fb992e3ecc3a862&fvd=n7&v=3")
+      format("woff"),
+    url("https://use.typekit.net/af/3f03c1/00000000000000003b9ad13e/27/a?primer=7fa3915bdafdf03041871920a205bef951d72bf64dd4c4460fb992e3ecc3a862&fvd=n7&v=3")
+      format("opentype");
+  font-display: auto;
+  font-style: normal;
+  font-weight: 700;
+}
+
+@font-face {
+  font-family: "aktiv-grotesk-extended";
+  src: url("https://use.typekit.net/af/50539a/00000000000000003b9ad140/27/l?primer=7fa3915bdafdf03041871920a205bef951d72bf64dd4c4460fb992e3ecc3a862&fvd=n8&v=3")
+      format("woff2"),
+    url("https://use.typekit.net/af/50539a/00000000000000003b9ad140/27/d?primer=7fa3915bdafdf03041871920a205bef951d72bf64dd4c4460fb992e3ecc3a862&fvd=n8&v=3")
+      format("woff"),
+    url("https://use.typekit.net/af/50539a/00000000000000003b9ad140/27/a?primer=7fa3915bdafdf03041871920a205bef951d72bf64dd4c4460fb992e3ecc3a862&fvd=n8&v=3")
+      format("opentype");
+  font-display: auto;
+  font-style: normal;
+  font-weight: 800;
+}
+
+.tk-aktiv-grotesk-extended {
+  font-family: "aktiv-grotesk-extended", sans-serif;
+}

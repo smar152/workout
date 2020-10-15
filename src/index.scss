@@ -1,0 +1,130 @@
+$container-max-widths: (
+  md: 885px,
+);
+$font-weight-bolder: 800;
+
+@import "~bootstrap";
+
+body {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-family: "aktiv-grotesk-extended", sans-serif;
+  background-color: #ebeaea;
+}
+
+input {
+  background-color: #f3f3f3;
+  border-radius: 8px;
+  border: 0px;
+
+  &:focus {
+    outline: 0px;
+  }
+}
+.pointer {
+  cursor: pointer;
+}
+
+.addBreakLabel:before,
+.addBreakLabel:after {
+  content: "";
+  flex: 1;
+  margin: auto;
+  height: 0;
+  border-top: solid #d8d8d8 1px;
+}
+
+.addBreakTitle {
+  padding: 0px 10px;
+  font-weight: 600;
+  color: #959494;
+  font-size: 14px;
+}
+
+.titleInput {
+  width: 420px;
+}
+
+.inputs {
+  height: 60px;
+  box-shadow: inset 7px 7px 5px 0 #d9d9d9, inset -4px -4px 5px 0 #f2f1f1;
+}
+
+.titleInput::placeholder {
+  text-align: right;
+  color: #bebebe;
+  font-size: 14px;
+}
+
+::placeholder {
+  color: #bebebe;
+  font-size: 14px;
+}
+
+h5 {
+  font-size: 18px;
+}
+
+h6 {
+  color: #adadad;
+  font-size: 14px;
+}
+
+.currentExerciseProgram {
+  width: 440px;
+  padding: 10px;
+  margin-left: 24px;
+}
+
+.searchResults {
+  width: 420px;
+}
+
+.content {
+  border-radius: 12px;
+  box-shadow: 15px 15px 15px 0 #dad9d9, -15px -5px 15px 0 #f6f5f5;
+}
+
+.exerciseThumbnail {
+  background-color: #d9d9d9;
+  height: 135px;
+  width: 178px;
+  font-size: 13px;
+}
+
+.addBreakButton {
+  background-color: #ebeaea;
+  height: 60px;
+  border: none;
+  box-shadow: 15px 15px 15px 0 #dad9d9, -15px -5px 15px 0 #f6f5f5;
+  border-radius: 8px;
+}
+
+.totalTime {
+  color: #999999;
+}
+
+.saveButton {
+  border-width: 2px;
+  border-radius: 8px;
+  box-shadow: 10px 10px 10px 0 #e0dfdf, -8px -8px 18px 0 #dfe3e9;
+}
+
+.exerciseDetails {
+  background-color: #ebeaea;
+  border-radius: 8px;
+  box-shadow: 15px 15px 15px 0 #dad9d9, -15px -5px 15px 0 #f6f5f5;
+}
+
+.stats {
+  background-color: #eeeded;
+  border-radius: 8px;
+  padding: 10px;
+  box-shadow: inset 2px 2px 5px 0 #dcdbdb, inset -4px -4px 5px 0 #f2f1f1;
+  width: 84px;
+  height: 62px;
+
+  h6 {
+    margin-bottom: 0.2rem;
+  }
+}
